@@ -1,0 +1,28 @@
+﻿<?xml version="1.0"?>
+<ArrayOfReplacementMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ReplacementMap Branch="BranchName1">
+    <Replacements>
+      <ReplacementString Find="Data Source=DEFAULT;Initial Catalog=DB" ReplaceWith="Data Source=SQLSERVER1;Initial Catalog=DB1" />
+    </Replacements>
+  </ReplacementMap>
+  <ReplacementMap Branch="BranchName2">
+    <Replacements>
+      <ReplacementString Find="Data Source=DEFAULT;Initial Catalog=DB" ReplaceWith="Data Source=SQLSERVER2;Initial Catalog=DB2" />
+    </Replacements>
+  </ReplacementMap>
+  <ReplacementMap Branch="BranchName3">
+    <Replacements>
+      <ReplacementString Find="Data Source=DEFAULT;Initial Catalog=DB" ReplaceWith="Data Source=SQLSERVER3;Initial Catalog=DB3" />
+    </Replacements>
+  </ReplacementMap>
+  <ReplacementMap Branch="BranchName4">
+    <Replacements>
+      <ReplacementString Find="Data Source=DEFAULT;Initial Catalog=DB" ReplaceWith="Data Source=SQLSERVER4;Initial Catalog=DB4" />
+    </Replacements>
+  </ReplacementMap>
+  <ReplacementMap Branch="BranchName5">
+    <Replacements>
+      <ReplacementString Find="Data Source=DEFAULT;Initial Catalog=DB" ReplaceWith="Data Source=SQLSERVER5;Initial Catalog=DB5" />
+    </Replacements>
+  </ReplacementMap>
+</ArrayOfReplacementMap>
