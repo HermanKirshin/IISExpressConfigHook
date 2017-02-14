@@ -1,0 +1,2 @@
+Source code is under public domain license, 
+except third-party hooking library \Hook32\minhook and \Hook64\minhook. Licenses for it can be found inside these folders.
